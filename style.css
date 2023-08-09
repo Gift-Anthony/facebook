@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+    display:inline-flexbox;
+    padding: 150px;
+    margin: 20px;
+    width: 900px;
+    height: 100px;
+    
+    
+}
+h1 {
+    width: 20px;
+    color: blue;
+    height: 10px;
+    margin-right: 100px;
+
+
+}
+.mobile {
+    display: flex;
+    margin-left: 800px;
+    height: 50px;
+    width: 100px;
+    padding-inline: 50px;
+    border-style:ridge; width: 180px; height: 200px;
+    padding-top: 30px;
+}
+
+
